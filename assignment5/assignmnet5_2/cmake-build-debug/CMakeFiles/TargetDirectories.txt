@@ -1,0 +1,3 @@
+/Users/armanahylbekov/CLionProjects/assignmnet5_2/cmake-build-debug/CMakeFiles/assignmnet5_2.dir
+/Users/armanahylbekov/CLionProjects/assignmnet5_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/armanahylbekov/CLionProjects/assignmnet5_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
